@@ -65,7 +65,7 @@ const Login = () => {
             onClick={() => navigate("/signup")}
             className="text-blue-500 hover:underline"
           >
-            Sign Up
+            Register Now
           </button>
         </p>
       </div>
